@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+<pbgroup><id>1</id><name>Blocklist</name></pbgroup>
+<pbgroup><id>2</id><name>Allowlist</name></pbgroup>
+<pbgroup><id>3</id><name>Blacklist</name></pbgroup>
+<pbgroup><id>4</id><name>Whitelist</name></pbgroup>
+<pbgroup><id>5</id><name>Blocklist</name></pbgroup>
+<pbgroup><id>6</id><name>Allowlist</name></pbgroup>
+<Contact><id>1</id><FirstName>Ing. Alberto</FirstName><LastName>Garcia Ortega</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5512</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>2</id><FirstName>Ing. Carlos</FirstName><LastName>Crespo Rivera</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5502</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>3</id><FirstName>Ing. Damian</FirstName><LastName>Dominguez Rojas</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5513</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>4</id><FirstName>Ing. Gustavo</FirstName><LastName>Plata Barajas</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5505</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>5</id><FirstName>Ing. Jesus E</FirstName><LastName>Mendoza Cruz</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5511</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>6</id><FirstName>Ing. Luis Ramiro</FirstName><LastName>Lara Diaz</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5509</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>7</id><FirstName>Ing. Luis Rodolfo</FirstName><LastName>Garcia Garcia</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5504</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>8</id><FirstName>Ing. Raul</FirstName><LastName>Crespo Rivera</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5503</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>9</id><FirstName>Lic. Leticia</FirstName><LastName>Gazga Hernandez</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5506</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>10</id><FirstName>Lic. Oscar A</FirstName><LastName>Simg de la Rosa</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5510</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>11</id><FirstName>Lic. Robertina G.</FirstName><LastName>Gasga Hernandez</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5501</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary><Company>IADSA</Company><Department>Directora</Department></Contact>
+<Contact><id>12</id><FirstName>Lic. Silvia</FirstName><LastName>Ortiz Ortiz</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5508</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>13</id><FirstName>Lic. Yolanda</FirstName><LastName>Chirinos Salas</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5507</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary></Contact>
+<Contact><id>14</id><FirstName>Ing. Fernando</FirstName><LastName>Espinoza Alejandro</LastName><Frequent>0</Frequent><Phone type="Work"><phonenumber>5518</phonenumber><accountindex>0</accountindex></Phone><Primary>0</Primary><Company>IADSA</Company><Department>Ingenieria</Department></Contact>
+</AddressBook>
